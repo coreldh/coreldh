@@ -1,4 +1,4 @@
-# Rodrigo Díaz Jonguitud
+# coreldh
 
 I run several software projects with AI agents, on a system I built so that someone without a
 coding background can ship real work. I am not an engineer. I work in Level 2 technical support.
@@ -39,10 +39,6 @@ I file precise bug and security reports against tools other engineers use every 
   CI gate certifies itself from a payload the pull request author controls.
 - [kunchenguid/no-mistakes #652](https://github.com/kunchenguid/no-mistakes/issues/652): after an
   intentional history rewrite, a branch is left permanently unrunnable.
-
-## Elsewhere
-
-- [x.com/rdiazjonguitud](https://x.com/rdiazjonguitud)
 
 The system does the work I cannot.
 
